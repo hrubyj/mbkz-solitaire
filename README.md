@@ -1,1 +1,1 @@
-# mbkz-solitaire
+# React Native Solitaire
